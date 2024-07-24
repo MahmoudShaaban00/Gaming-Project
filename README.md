@@ -11,6 +11,8 @@
 
 #### I would love to hear your feedback and thoughts! Let's connect and discuss how we can elevate the gaming experience together. 🚀
 
-![Screenshot_25-7-2024_0834_localhost](https://github.com/user-attachments/assets/b9a704dc-d086-4f88-958d-0cfbfeaeb088)
-
+## this image show content the project
+<div>
 ![Screenshot_25-7-2024_0718_localhost](https://github.com/user-attachments/assets/b8bc68e4-ddd9-4dc7-b3bc-019aa6ff441d)
+![Screenshot_25-7-2024_0834_localhost](https://github.com/user-attachments/assets/b9a704dc-d086-4f88-958d-0cfbfeaeb088)
+</div>
